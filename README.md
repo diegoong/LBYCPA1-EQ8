@@ -1,4 +1,5 @@
-# How to use run Exp2
+# Welcome to Diego's Exp2
 
-Step 1: Enter your annual income
+Diego's Exp2 consists of two easy steps 
+Step 1: Enter/Input your annual income
 Step 2: Wait for the program to compute your annual and monthly income tax
